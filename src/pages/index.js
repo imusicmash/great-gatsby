@@ -44,6 +44,7 @@ const samplePageLinks = [
   { text: "TypeScript", url: "using-typescript" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
+  { text: "FedML", url: "https://www.fedml.ai" },
 ]
 
 const moreLinks = [
